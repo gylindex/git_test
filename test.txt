@@ -1,1 +1,3 @@
 #使用git init建立本地仓库
+
+git log
